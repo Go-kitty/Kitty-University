@@ -6,7 +6,6 @@ My favorite open source learning materials.
 ### History
 ### Language
 #### Japanese
-#### Korean
 ### Mathematics
 ### Music
 
