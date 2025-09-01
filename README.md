@@ -5,7 +5,7 @@ My favorite open source learning materials.
 
 ### Art
 #### Digital Painting
-[Ctrl+Paint](https://www.ctrlpaint.com/library)
+[Ctrl+Paint](https://www.ctrlpaint.com/library) - This is a collection of short, free, videos on the basics of digital painting.
 ### Go
 ### History
 ### Language
