@@ -5,7 +5,7 @@ My favorite open source learning materials.
 
 ### Art
 #### Art History
-[New Masters: Introduction to Art History](https://www.youtube.com/watch?v=W09lIONQv2w)
+[New Masters: Introduction to Art History](https://www.youtube.com/watch?v=W09lIONQv2w) - From Antiquity to Contemporary Art: Dive into each historical period with expert guidance. Antiquity, Byzantine, Romanesque, and Gothic art, Renaissance, Baroque and Rococo, Neoclassicism, Romanticism, and Realism, Impressionism and Post-Impressionism, Modern and Contemporary art.
 #### Digital Painting
 [Ctrl+Paint](https://www.ctrlpaint.com/library) - This is a collection of short, free, videos on the basics of digital painting.
 #### Drawing
