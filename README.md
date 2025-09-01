@@ -4,6 +4,8 @@ My favorite open source learning materials.
 ## By Topic (A-Z)
 
 ### Art
+#### Art History
+[New Masters: Introduction to Art History](https://www.youtube.com/watch?v=W09lIONQv2w)
 #### Digital Painting
 [Ctrl+Paint](https://www.ctrlpaint.com/library) - This is a collection of short, free, videos on the basics of digital painting.
 #### Drawing
